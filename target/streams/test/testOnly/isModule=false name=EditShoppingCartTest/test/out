@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mEditShoppingCartTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mA test to add and remove an item from the shopping cart[0m[0m
+[0m[[0minfo[0m] [0m[32m- A shopping cart should be empty when first visiting the site[0m[0m
+[0m[[0minfo[0m] [0m[32m- A user account page should display a link to the Dress category[0m[0m
+[0m[[0minfo[0m] [0m[32m- A Dress category button should take the user to a page displaying dresses[0m[0m
+[0m[[0minfo[0m] [0m[32m- A shopping cart should display a confirmation message when items are added[0m[0m
+[0m[[0minfo[0m] [0m[32m- An item in a shopping cart should be removable[0m[0m
+[0m[[0minfo[0m] [0m[32m- A shopping cart should be empty when items are deleted[0m[0m

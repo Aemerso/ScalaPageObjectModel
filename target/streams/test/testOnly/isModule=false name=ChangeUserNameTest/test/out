@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mChangeUserNameTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mA Test to change the User Name[0m[0m
+[0m[[0minfo[0m] [0m[32m- A Home page should have the correct title[0m[0m
+[0m[[0minfo[0m] [0m[32m- A sign-in page should have a login form[0m[0m
+[0m[[0minfo[0m] [0m[32m- A user account page should display the correct user name[0m[0m
+[0m[[0minfo[0m] [0m[32m- A User information Page should display the user's information[0m[0m
+[0m[[0minfo[0m] [0m[32m- A confirmation message should be displayed when changes are made to the user's information[0m[0m
+[0m[[0minfo[0m] [0m[32m- A user account page should reflect recent changes and display the correct user name[0m[0m
